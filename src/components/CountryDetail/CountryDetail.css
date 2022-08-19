@@ -1,0 +1,8 @@
+.countryDelats{
+    display: flex;
+    justify-content: space-evenly;
+    border: 3px solid salmon;
+}
+.countryDelat{
+    width: 50%;
+}
